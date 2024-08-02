@@ -1,19 +1,19 @@
 <h1 align="center">I am heap-s</h1>
-<h3 align="center">I am a Linux Kernel Researcher and avid security tool dev</h3>
+<h3 align="center">I am an avid security tool dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heap-s&label=Profile%20views&color=0e75b6&style=flat" alt="heap-s" /> </p>
 
-- 🔭 I’m currently working on **extending kgdb**
+- 🔭 I’m currently working on **Open Source Security Tooling**
 
-- 🌱 I’m currently learning **more about kernel subsystems**
+- 🌱 I’m currently learning **About disassemblers^^**
 
 - 👯 I’m looking to collaborate on **anything interesting!**
 
 - 👨‍💻 All of my projects are available at [N/A](N/A)
 
-- 💬 Ask me about **vulnerability research**
+- 💬 Ask me about **My Current Projects**
 
-- 📫 How to reach me **find me :D**
+- 📫 How to reach me **PR's here when something is released or my main github has some information @themanwiththeplan-eng**
 
 - ⚡ Fun fact **I work late at night usually**
 
